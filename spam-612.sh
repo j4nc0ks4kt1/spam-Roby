@@ -26,9 +26,9 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 echo "##################################"|lolcat
 echo "/ TOOLS : SPAM v1                /"|lolcat
-echo "/ CODED : MR.B3604               /"|lolcat
-echo "/ TEAM  : 407 Authentic eXploit  /"|lolcat
-echo "/ youtube : GUNAWAN ID           /"|lolcat
+echo "/ CODED : j4nc0ks4kti               /"|lolcat
+echo "/ TEAM  : HIJRAH CYBER TEAM  /"|lolcat
+echo "/ youtube : Kepo yak           /"|lolcat
 echo "##################################"|lolcat
 
 echo "daftar tools spam"
@@ -53,7 +53,7 @@ fi
 
 if [ $bro = 3 ] || [ $bro = 03 ]
 then
-echo "\033[31;1mWE ARE 407 AUTHENTIC EXPLOIT"
+echo "\033[31;1mWE HIJRAH CYBER TEAM"
 sleep 1
 echo "\033[32;1mTerimakasih Sudah Menggunakan Tools ini"
 sleep 1
