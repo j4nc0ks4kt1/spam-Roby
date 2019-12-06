@@ -1,4 +1,4 @@
-﻿#MAU NGAPAIN MONYET !!
+#MAU NGAPAIN MONYET !!
 #MAU RECODE !?
 #HAHAHA KONTOL RECODE AJG !!
 #NGAPAIN MASIH DI SINI MONYET !!
@@ -9,7 +9,7 @@
 #SALAM HEKEL
 #SALAM MAQLO
 clear
-#Variables
+# Variables
 b='\033[1m'
 u='\033[4m'
 bl='\E[30m'
@@ -25,17 +25,17 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 echo "##################################"|lolcat
+echo "/ TOOLS : SPAM v1                /"|lolcat
+echo "/ CODED : MR.B3604               /"|lolcat
+echo "/ TEAM  : 407 Authentic eXploit  /"|lolcat
+echo "/ youtube : GUNAWAN ID           /"|lolcat
+echo "##################################"|lolcat
 
-echo "/ TOOLS : Spam-612/"| lolcat
-echo "/ CODED : j4nc0ks4kti /"| lolcat
-echo "/ TEAM : Hijrah Cyber Team/"| lolcat
-
-echo "##################################"|lolcat 
 echo "daftar tools spam"
 echo "[1] Bom Chat Whatsapp"
 echo "[2] Spam Telpon"
 echo "[3] Keluar"
-read -p "PILIH SALAH SATU : " bro 
+read -p "PILIH SALAH SATU : " bro
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
@@ -44,16 +44,20 @@ php mdr2.php
 sh B3604-spam.sh
 fi
 
- if [ $bro = 2 ] || [ $bro = 01 ]
+if [ $bro = 2 ] || [ $bro = 01 ]
 then
 clear
 php mdr1.php
 sh B3604-spam.sh
-fi 
+fi
 
 if [ $bro = 3 ] || [ $bro = 03 ]
 then
-echo "\033[31;1mWE ARE Hijrah Cyber Team "sleep 1
-echo "\033[32;1mTerimakasih Sudah Menggunakan Tools ini"sleep 1
-echo "\033[35;1mSelamat Beraktivitas"sleep 1exit
+echo "\033[31;1mWE ARE 407 AUTHENTIC EXPLOIT"
+sleep 1
+echo "\033[32;1mTerimakasih Sudah Menggunakan Tools ini"
+sleep 1
+echo "\033[35;1mSelamat Beraktivitas"
+sleep 1
+exit
 fi
